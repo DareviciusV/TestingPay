@@ -10,8 +10,9 @@ This repository contains a Cypress test suite for automating the process of payi
 
 # Prerequisites
 
-Node.js and npm installed on your machine
-Cypress installed on your machine
+**Node.js and npm installed**
+
+**Cypress installed**
 
 ## Documentation:
 **Cypress**: https://docs.cypress.io/
