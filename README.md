@@ -13,6 +13,13 @@ This repository contains a Cypress test suite for automating the process of payi
 Node.js and npm installed on your machine
 Cypress installed on your machine
 
+## Documentation:
+**Cypress**: https://docs.cypress.io/
+
+**npm docs:** https://docs.npmjs.com/
+
+**Node:** https://nodejs.org/en/docs/
+
 # Running the tests
 
 **npx cypress open** to open the Cypress test runner
