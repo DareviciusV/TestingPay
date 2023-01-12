@@ -16,11 +16,16 @@ Cypress installed on your machine
 # Running the tests
 
 **npx cypress open** to open the Cypress test runner
+
 **npx cypress run --browser chrome** to open Chrome headless
+
 **npx cypress run --browser edge** to open edge headless
+
 **npx cypress run --browser firefox** to open firefox headless
+
 **npx cypress run --browser electron** to open electron headless
 
-Built With
+
+# Built With
 Cypress - JavaScript end-to-end testing framework
 
