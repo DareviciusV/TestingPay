@@ -1,7 +1,7 @@
 # Invoice Automation
 ## Testing payment with Cypress automation tool
 
-This repository contains a Cypress test suite for automating the process of paying an invoice using cryptocurrency on the CoinGate sandbox website. The test visits the website, selects Bitcoin as the payment method, turns on the Lighting network for instant payments, enters an email, and clicks the checkout button. It then checks for the presence of a QR code and marks the invoice as paid. The test also includes various assertions to check the state of the website at various points throughout the process.
+This repository contains a Cypress test suite for automating the process of paying an invoice using cryptocurrency on the CoinGate sandbox website. 
 
 # Install
 
